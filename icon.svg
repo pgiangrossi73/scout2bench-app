@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+ <defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3C3489"/><stop offset="1" stop-color="#26215C"/></linearGradient></defs>
+ <rect width="512" height="512" fill="url(#g)"/>
+ <!-- campo visto dall'alto / court seen from above -->
+ <rect x="126" y="110" width="260" height="270" rx="8" fill="#ffffff"/>
+ <rect x="299" y="110" width="87" height="90" fill="#EF9F27"/>
+ <line x1="212" y1="110" x2="212" y2="380" stroke="#AFA9EC" stroke-width="4" stroke-dasharray="10 9"/>
+ <line x1="299" y1="200" x2="299" y2="380" stroke="#AFA9EC" stroke-width="4" stroke-dasharray="10 9"/>
+ <line x1="126" y1="290" x2="386" y2="290" stroke="#AFA9EC" stroke-width="4" stroke-dasharray="10 9"/>
+ <rect x="110" y="376" width="292" height="16" rx="4" fill="#EF9F27"/>
+ <!-- rincorsa / approach run -->
+ <path d="M178 160 C 175 250, 230 320, 330 352" fill="none" stroke="#534AB7" stroke-width="13" stroke-linecap="round"/>
+ <path d="M318 330 L 350 357 L 312 368 Z" fill="#534AB7"/>
+ <circle cx="178" cy="160" r="30" fill="#ffffff" stroke="#534AB7" stroke-width="9"/>
+ <path d="M150 352 L 172 314 L 194 352 Z" fill="#EF9F27"/>
+</svg>
